@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit0-1&label=Profile%20views&color=0e75b6&style=flat" alt="amit0-1" /> </p>
 
 - 🌱 I’m currently learning **Core Java, DSA, ReactJS**
 
+- 💬 Ask me about **Anythings...**
+
 - 📫 How to reach me **ak8582670@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1r4LE8zooWYHR_8PHpregOLsuAmB4Ff4Z/view?usp=sharing](https://drive.google.com/file/d/1r4LE8zooWYHR_8PHpregOLsuAmB4Ff4Z/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny 😅**
 
