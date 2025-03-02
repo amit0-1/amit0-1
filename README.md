@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ak8582670@gmail.com**
 
-- 📄 Know about my experiences [Click to open resume](https://drive.google.com/file/d/1r4LE8zooWYHR_8PHpregOLsuAmB4Ff4Z/view?usp=sharing)
+- 📄 Know about my experiences [Click to open resume](https://drive.google.com/file/d/1JWtElhdylRISl6_MnuaJoJDAYQBXdENL/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny 😅**
 
